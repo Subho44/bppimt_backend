@@ -1,0 +1,12 @@
+const variableexample = require('./questions/variable');
+const datatypesexample = require('./questions/datatypes');
+const conditionexample = require('./questions/condition');
+const functionexample = require('./questions/function');
+console.log("variable example:");
+console.log("datatypes example:");
+console.log("condition example:");
+console.log("function example:");
+variableexample();
+datatypesexample();
+conditionexample();
+functionexample();
