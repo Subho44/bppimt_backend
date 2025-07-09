@@ -1,0 +1,6 @@
+all system info added: 
+
+username:admin
+platform:win32
+arch:x64
+cores:4
